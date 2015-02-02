@@ -1,0 +1,22 @@
+{
+  "author": "David Naffis <davidnaffis@gmail.com>",
+  "name": "nara-node",
+  "description": "API client for the National Archives",
+  "version": "0.1.0",
+  "homepage": "https://github.com/usnationalarchives/nara-node",
+  "license": "CC0 1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/usnationalarchives/nara-node.git"
+  },
+  "main": "./lib/index.js",
+  "dependencies": {
+    "json5": "~0.2.0",
+    "underscore": "~1.5.1",
+    "request": "~2.25.0"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": ">=0.8"
+  }
+}
