@@ -1,13 +1,16 @@
-= nara-node
+# nara-node
 
 API client for the National Archives
 
-== Installation
+## Installation
 
+```bash
   npm install nara-node
+```
 
-== Usage
+## Usage
 
+```javascript
   var nara = require('nara-node');
 
   nara({
@@ -19,15 +22,16 @@ API client for the National Archives
   }, function (err, result) {
       // Do stuff with records
   });
-  
-== TODO
+```
+
+## TODO
 
   A lot. Tests. Write capabilities for tagging and transcriptions. Authentication. More I'm sure. 
 
-== Contributing
+## Contributing
 
 Pull requests please.
 
-== Copyright
+## Copyright
 
 Written by David Naffis. See LICENSE.txt for further details.
