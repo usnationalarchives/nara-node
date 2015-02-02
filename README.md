@@ -1,6 +1,6 @@
 # nara-node
 
-API client for the National Archives
+A Node client for the [National Archives API](https://github.com/usnationalarchives/Catalog-API).
 
 ## Installation
 
