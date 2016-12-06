@@ -1,0 +1,17 @@
+﻿{
+  "name": "NARA Catalog Node Client",
+  "description": "Node client for the National Archives API.",
+  "license": "https://github.com/usnationalarchives/nara-node/commit/5ac1d4c3f0052890068f71a46fa9301d2995b444",
+  "openSourceProject": 1,
+  "governmentWideReuseProject": 1,
+  "tags": [
+    "NARA",
+    "api",
+    "catalog",
+    "records",
+    "Node"
+  ],
+  "contact": {
+    "email": "leslie.johnston@nara.gov"
+  }
+}
